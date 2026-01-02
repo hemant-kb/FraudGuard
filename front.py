@@ -1,8 +1,3 @@
-"""
-🎯 Updated Fraud Detection App
-Uses real frequency encoding for category and state only
-Merchant/city/job removed from model
-"""
 
 import streamlit as st
 import pandas as pd
