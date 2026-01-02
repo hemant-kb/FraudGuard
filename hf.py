@@ -1,7 +1,3 @@
-"""
-Simplified Hugging Face LLM Integration for Fraud Detection
-Uses Llama 3.2 to explain SHAP values in plain English
-"""
 
 from langchain_huggingface import HuggingFaceEndpoint, ChatHuggingFace
 from langchain_core.messages import HumanMessage, SystemMessage
