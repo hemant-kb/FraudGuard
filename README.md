@@ -1,6 +1,6 @@
 # 💳 Credit Card Fraud Detection System
 
-An intelligent, production-ready fraud detection system powered by **XGBoost**, **SHAP explainability**, and **AI-powered natural language explanations** using Hugging Face LLMs.
+An intelligent, fraud detection system powered by **XGBoost**, **SHAP explainability**, and **AI-powered natural language explanations** using Hugging Face LLMs.
 
 ### Quick Summary
 
