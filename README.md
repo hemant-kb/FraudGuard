@@ -43,7 +43,7 @@ Compare to Threshold → SHAP Explains → LLM Translates → Display Results
    ├─ Extract top 5 most impactful features
    └─ Generate waterfall plot (visual breakdown)
 
-6. LLM EXPLANATION (Mistral 7B)
+6. LLM EXPLANATION (SmolLM3-3B)
    ├─ Input: Prediction result + top 5 SHAP features
    ├─ Prompt: "Explain as Senior Fraud Analyst in 4 bullet points"
    └─ Output: Plain English analysis with Key Finding, Evidence, Risk, Next Steps
@@ -54,3 +54,4 @@ Compare to Threshold → SHAP Explains → LLM Translates → Display Results
    └─ Why? → Waterfall plot + Top 5 features list + AI plain English explanation
 ```
 
+<img width="1671" height="773" alt="image" src="https://github.com/user-attachments/assets/59438718-afd8-40da-9aec-753d6d1f52a8" />
